@@ -1,4 +1,4 @@
-import OCP.BadCode.Payment;
+import SOLID.OCP.BadCode.Payment;
 
 public class Main {
     public static void main(String[] args) {
